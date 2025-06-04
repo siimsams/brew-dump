@@ -1,4 +1,3 @@
-tap "homebrew/bundle"
 brew "libpq"
 brew "minikube"
 brew "mkcert"
